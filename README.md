@@ -30,6 +30,7 @@ I contributed to business rule analysis, relational data modeling, SQL query des
 - Each front counter can hold multiple orders
 - Managers can supervise multiple employees
 
+
 ## Project Structure
 
 ```text
@@ -38,4 +39,5 @@ fast-food-restaurant-database/
 └── sql/
     ├── 00_schema.sql
     ├── 01_indexes.sql
-    └── 02_queries.sql
+    ├── 02_queries.sql
+    └── 03_sample_data.sql
