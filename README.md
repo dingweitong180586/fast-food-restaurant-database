@@ -38,4 +38,4 @@ fast-food-restaurant-database/
 └── sql/
     ├── 00_schema.sql
     ├── 01_indexes.sql
-    └── 02_queries.sqlw'w'w'w'w'w'w'w'w'w'w'w'w'w
+    └── 02_queries.sql
